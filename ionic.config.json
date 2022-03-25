@@ -1,0 +1,7 @@
+{
+  "name": "myTaskList",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
